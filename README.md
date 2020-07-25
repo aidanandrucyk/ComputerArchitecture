@@ -3,7 +3,6 @@
 This work is not to be copied under any circumstances.
 
 Scores:
-
-pa1: 100/100
-pa2: 100/100
-pa3: in progress
+1. pa1: 100/100
+2. pa2: 100/100
+3. pa3: in progress
