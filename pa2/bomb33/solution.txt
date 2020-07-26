@@ -1,0 +1,6 @@
+266
+Yo ho yo ho, a pirate's life for me.
+0 12 36 72 120 180
+5 649
+11 24
+5 4 6 1 2 3
