@@ -2,7 +2,8 @@
 
 This work is not to be copied under any circumstances.
 
-Scores:
-1. pa1: 100/100
-2. pa2: 100/100
-3. pa3: in progress
+| Project         	| Grade       	| Description                                                                                    	|
+|-----------------	|-------------	|------------------------------------------------------------------------------------------------	|
+| Intro to C      	| 100         	| Implemented Machine Learning One Shot Learning Model, Hash Tables, and Bitwise Functions in C. 	|
+| Bomb Lab        	| 100         	| Used gdb (GNU debugger) to sift through x86 assembly instructions to recreate C analogs.       	|
+| Cache Simulator 	| In Progress 	| Writes and memory reads for a memory access pattern.                                           	|
