@@ -1,4 +1,6 @@
+The following are the x86 assembly instructions corresponding to my bomb
 
+```
 ./bomb:     file format elf32-i386
 
 
@@ -1733,3 +1735,4 @@ Disassembly of section .fini:
  8049f23:	83 c4 08             	add    $0x8,%esp
  8049f26:	5b                   	pop    %ebx
  8049f27:	c3                   	ret    
+```
