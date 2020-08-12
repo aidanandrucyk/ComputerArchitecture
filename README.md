@@ -8,4 +8,4 @@ This work is not to be copied under any circumstances. Please see the [Rutgers A
 | Bomb Lab        	| 100         	| Used gdb (GNU debugger) to sift through x86 assembly instructions to recreate C analogs.       	|
 | Midterm Exam   	  | 100         	| Topics: Von Neumann Architecture, C Programming, Data Representation, Memory Segments, and x86 Assembly |
 | Cache Simulator 	| 120          	| Write-through single-layer cache with FIFO and LRU replacement policies.                        |
-| Final Exam       	| Will Update  	| Topics: Midterm Topics, Cache Design, Digital Logic, and Circuit Design                           	|
+| Final Exam       	| Will Update  	| Topics: Midterm Topics, Cache Design, Boolean Algebra, Digital Logic, I/O                        	|
