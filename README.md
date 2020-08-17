@@ -10,4 +10,4 @@ This work is not to be copied under any circumstances. Please see the [Rutgers A
 | Cache Simulator 	| 120          	| Write-through single-layer cache with FIFO and LRU (extra credit) replacement policies                        |
 | Final Exam       	| 76.8         	| Topics: Midterm Topics, Cache Design, Digital Logic (Boolean Algebra, Circuit Design, Finite State Machines, etc.)      	|
 | Participation     | 100          	| User engagement in Piaza and live lecture chat                                                	|
-| Overall Grade     | 96.05         | Breakdown: Projects (45%), Final (30%), Midterm (20%), Participation (5%)                      	|
+| Overall Grade     | 96.1         | Breakdown: Projects (45%), Final (30%), Midterm (20%), Participation (5%)                      	|
